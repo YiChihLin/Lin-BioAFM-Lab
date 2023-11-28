@@ -1,41 +1,44 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yi-Chih Lin
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Yi-Chih
+last_name: Lin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Chemistry
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: University of Texas at Austin
+    url: 'https://cm.utexas.edu/component/cobalt/item/12-chemistry/4487-lin-yi-chih?Itemid=1251'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Biophysics
+  - High-Speed Atomic Force Microscopy
+  - Structural Biology
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: Postdoc (Simon Scheuring)
+      institution: Weill Cornell Medical College
+      year: 2017-2021
+    - course: PhD in Chemistry (Zahra Fakhraai)
+      institution: University of Pennsylvania
+      year: 2017
+    - course: MS in Chemistry (Pi-Tai Chou)
+      institution: National Taiwan University
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BS in Artificial Intelligence
+      institution: National Taiwan University
+      year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -61,7 +64,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'yichih.lin@utexas.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
