@@ -73,7 +73,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
 Dr. Yi-Chih Lin is the assistant professor at Department of Chemistry, University of Texas at Austin (2021-current). The Lin research group works in a variety of areas spanning biophysical & bioanalytical chemistry, structural & molecular biology, and nanotechnology, and has been one of the leading groups worldwide in developing high-speed atomic force microscopy to visualize biological processes at single molecular level. His research aims to understand the structure-function correlation of biomolecules.
