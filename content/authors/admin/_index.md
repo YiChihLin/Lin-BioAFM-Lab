@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yi-Chih Lin
+title: Dr. Yi-Chih Lin
 
 # Full Name (for SEO)
 first_name: Yi-Chih
@@ -18,22 +18,23 @@ organizations:
     url: 'https://cm.utexas.edu/component/cobalt/item/12-chemistry/4487-lin-yi-chih?Itemid=1251'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include understanding the structure-function correlation of membrane proteins in native-like environments, the properties of biological membranes, membrane-protein interactions, protein self-assembly and aggregation, and protein-nucleic acid interactions.
 
 interests:
-  - Biophysics
+  - Biophysics & Structural Biology
   - High-Speed Atomic Force Microscopy
-  - Structural Biology
+  - Structural and Functional Characterization of Biomolecules
+  - Image Processing and Data Analysis, Molecular Recognization
 
 education:
   courses:
-    - course: Postdoc (Simon Scheuring)
+    - course: Postdoc (Dr. Simon Scheuring)
       institution: Weill Cornell Medical College
       year: 2017-2021
-    - course: PhD in Chemistry (Zahra Fakhraai)
+    - course: PhD in Chemistry (Dr. Zahra Fakhraai)
       institution: University of Pennsylvania
       year: 2017
-    - course: MS in Chemistry (Pi-Tai Chou)
+    - course: MS in Chemistry (Dr. Pi-Tai Chou)
       institution: National Taiwan University
       year: 2009
     - course: BS in Artificial Intelligence
@@ -47,16 +48,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:yichih.lin@utexas.edu'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/lin_yichih
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=Ly1bIUsAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/LinBioAFM
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -75,6 +76,4 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Yi-Chih Lin is the assistant professor at Department of Chemistry, University of Texas at Austin (2021-current). The Lin research group works in a variety of areas spanning biophysical & bioanalytical chemistry, structural & molecular biology, and nanotechnology, and has been one of the leading groups worldwide in developing high-speed atomic force microscopy to visualize biological processes at single molecular level. His research aims to understand the structure-function correlation of biomolecules.
